@@ -1,4 +1,7 @@
 <template>
+  <div>
+    <h1>Hello world</h1>
+  </div>
   <div class="container">
     <h5>Transactions</h5>
     <table class="table">
